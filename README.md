@@ -14,4 +14,3 @@ An ArrayDeque is a special kind of a growable array that allows us to add or rem
 An ArrayDeque implementation can be used as a Stack (Last-In-First-Out) or a Queue(First-In-First-Out).
 
 According to https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html: Deques can also be used as LIFO (Last-In-First-Out) stacks. This interface should be used in preference to the legacy Stack class.
-# balanced-brackets
